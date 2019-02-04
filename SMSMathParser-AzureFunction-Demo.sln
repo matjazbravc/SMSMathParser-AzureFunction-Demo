@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F0D29262-72F1-481D-A5B8-5F5F799CB6C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMSMathParserAzureFunction", "src\SMSMathParserAzureFunction\SMSMathParserAzureFunction.csproj", "{E20A15A3-D25B-4E9C-BCB0-04A026CA4C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E20A15A3-D25B-4E9C-BCB0-04A026CA4C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20A15A3-D25B-4E9C-BCB0-04A026CA4C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20A15A3-D25B-4E9C-BCB0-04A026CA4C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20A15A3-D25B-4E9C-BCB0-04A026CA4C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E20A15A3-D25B-4E9C-BCB0-04A026CA4C89} = {F0D29262-72F1-481D-A5B8-5F5F799CB6C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E0CFFB-CF8A-4D43-81DB-0B0B652433B9}
+	EndGlobalSection
+EndGlobal
